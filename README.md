@@ -1,0 +1,1 @@
+# buildifier-starlib-error-repro
